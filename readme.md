@@ -8,9 +8,9 @@ The S.I.R (Susceptible, Infected, Removed) system of ODEs is a simple epidemiolo
 The state vector is thus described by:
 
 $$\vec{u}(t) = \begin{bmatrix}
-s(t)
-\\i(t)
-\\r(t)
+s(t) \\
+i(t) \\
+r(t)
 \end{bmatrix}$$
 
 and the state derivative is as follows
